@@ -1,11 +1,12 @@
-My Timer is a simple timer app built with Swift. This app is designed to measure short durations of time, typically in seconds.
-It was created as an introductory project for learning Swift.
+# MY TIMER
 
-・Features
+## FEATURES
 
-Simple Timer: Measures time in seconds with a straightforward interface.
-User-Friendly: Designed to be easy to use with minimal setup.
+- SIMPLE TIMER
+- USER-FRIENDLY INTERFACE
 
-・Purpose
+## INSTALLATION
 
-This project was developed as a beginner’s introduction to Swift programming. It focuses on fundamental concepts and provides a practical example of how to build a basic timer application.
+1. CLONE THE REPOSITORY
+2. OPEN THE PROJECT IN XCODE
+3. RUN THE APP
