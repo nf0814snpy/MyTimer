@@ -11,6 +11,7 @@
 		D82806402C3A8107002DF601 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D828063F2C3A8107002DF601 /* ContentView.swift */; };
 		D82806422C3A8107002DF601 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D82806412C3A8107002DF601 /* Assets.xcassets */; };
 		D82806452C3A8107002DF601 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D82806442C3A8107002DF601 /* Preview Assets.xcassets */; };
+		D828064C2C3A8145002DF601 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D828064B2C3A8145002DF601 /* SettingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D828063F2C3A8107002DF601 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D82806412C3A8107002DF601 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D82806442C3A8107002DF601 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D828064B2C3A8145002DF601 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				D828063D2C3A8107002DF601 /* MyTimerApp.swift */,
+				D828064B2C3A8145002DF601 /* SettingView.swift */,
 				D828063F2C3A8107002DF601 /* ContentView.swift */,
 				D82806412C3A8107002DF601 /* Assets.xcassets */,
 				D82806432C3A8107002DF601 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D828064C2C3A8145002DF601 /* SettingView.swift in Sources */,
 				D82806402C3A8107002DF601 /* ContentView.swift in Sources */,
 				D828063E2C3A8107002DF601 /* MyTimerApp.swift in Sources */,
 			);
